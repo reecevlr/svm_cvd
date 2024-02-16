@@ -2,6 +2,5 @@
 datasets/heart_2020_cleaned.csv
 datasets/heart_2022_no_nans.csv
 datasets/heart_2022_with_nans.csv
-old-dataset-check.ipynb
 old-datasets/heart_expanded.csv
 old-datasets/heart.csv
